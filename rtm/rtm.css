@@ -1,0 +1,35 @@
+body {
+	font-family: "Lucida Grande", "Segoe UI", Lucida, Verdana, sans-serif;
+}
+
+.xtd_text {
+	font-size: 14px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+#tools {
+        display: none;
+}
+
+#onlinehelpwrap {
+        display: none;
+}
+
+#tools_spacer, .appfooter {
+        display: none;
+}
+
+select {
+        padding: 4px;
+}
+
+#detailscontent {
+	font-size: 12px;
+	line-height: 20px;
+}
+
+#notes {
+	font-size: 12px;
+	line-height: 18px;
+}
