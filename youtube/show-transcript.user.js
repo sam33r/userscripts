@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Show YouTube Transcripts by default.
 // @namespace   sa
-// @match       https://www.youtube.com/watch
+// @match       http*://www.youtube.tld/watch?v=*
 // @grant       none
 // @version     1.0
 // @author      Sameer Ahuja
